@@ -23,7 +23,7 @@ create project
 
 
 graphcool
-dfasdfasdfassssssssssssssssssssssssssssssssssss
+create database
 
 
 sdfasdfasdf
