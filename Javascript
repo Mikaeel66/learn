@@ -1,0 +1,5 @@
+map(x=>x)
+reduce
+filter
+every
+some
