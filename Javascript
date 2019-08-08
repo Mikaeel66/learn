@@ -3,3 +3,10 @@ reduce
 filter
 every
 some
+
+Learn
+
+Github
+npm
+netlify
+graphcool
