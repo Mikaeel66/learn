@@ -12,5 +12,14 @@ git clone https://github.com/Mikaeel66/learn
 
 
 npm
+
+install
+
+
+
 netlify
+
+create project
+
+
 graphcool
