@@ -7,6 +7,10 @@ some
 Learn
 
 Github
+
+git clone https://github.com/Mikaeel66/learn
+
+
 npm
 netlify
 graphcool
